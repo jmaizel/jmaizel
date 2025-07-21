@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, moi c’est Jean Maizel</h1>
+<h1 align="center">Salut 👋, moi c’est Jacob Maizel</h1>
 <h3 align="center">Développeur Fullstack passionné basé à Paris</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
