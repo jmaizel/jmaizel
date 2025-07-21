@@ -1,47 +1,81 @@
-<h1 align="center">Salut 👋, moi c’est Jacob Maizel</h1>
-<h3 align="center">Développeur Fullstack passionné basé à Paris</h3>
+<h1 align="center">Salut, moi c’est Jacob Maizel 👋</h1>
+<h3 align="center">Développeur fullstack en devenir, passionné de systèmes complexes & de stratégie</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🔭 Je travaille actuellement sur **WebServ**
-- 🌱 Je continue à apprendre **C++, Docker, C...**
-- 📫 Tu peux me contacter à **jacobmaizel@hotmail.com**
-
----
-
-### 🛠️ Stack & Outils
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="mailto:jacobmaizel@hotmail.com"><img src="https://img.shields.io/badge/Email-jacobmaizel@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/jmaizel"><img src="https://img.shields.io/badge/GitHub-jmaizel-181717?style=flat-square&logo=github"></a>
+</p>
 
 ---
 
-### 📊 Mes Stats GitHub
+### 👨‍💻 À propos de moi
 
-![Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmaizel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmaizel&layout=compact&theme=radical)
-
----
-
-### 📂 Projets à voir
-
-| Projet | Description |
-|--------|-------------|
-| [NomDuProjet1](lien) | Un outil pour ___ avec NestJS |
-| [NomDuProjet2](lien) | Une API GraphQL moderne |
-| [NomDuProjet3](lien) | Une app React avec Docker |
+🎓 Étudiant à **École 19** (réseau 42)  
+📊 Ancien étudiant en économie à **Solvay Brussels School**  
+♟️ Joueur d’échecs classé (>2000 Elo) : concentration, stratégie & prise de décision  
+🧠 Esprit analytique, logique, et curieux  
+🌍 Basé à **Uccle, Bruxelles**
 
 ---
 
-### ✉️ Contact
+### 🔧 Compétences techniques
 
-📧 **jean.maizel@email.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/...)  
-🌐 [Portfolio](https://tonsite.dev) *(si tu en as un)*
+#### Backend & Systèmes
+- 🟦 C, C++
+- 🌐 Programmation réseau
+- 🧱 HTTP/1.1, multi-threading
+- 🐧 Bash, Git, Docker
+
+#### Développement Web Fullstack (en cours de spécialisation)
+- 🟣 NestJS, PostgreSQL
+- ⚛️ React, WebSockets
+- 🔐 Authentification, APIs REST/GraphQL
+
+#### Environnement
+- 💻 Linux, Shell
+- 🛠️ Projets construits from scratch (no framework)
+
+---
+
+### 🚀 Projets techniques marquants
+
+📌 **Webserv**  
+Serveur HTTP/1.1 en C++ conforme aux RFC  
+➡️ Connexions concurrentes, gestion de contenu statique/dynamique
+
+📌 **Minishell**  
+Reproduction d’un shell Unix avec parsing, pipes, redirections et signaux
+
+📌 **Transcendence** *(en cours)*  
+App web en temps réel (NestJS + React + WebSockets)  
+➡️ Authentification, base PostgreSQL, chat en live, interface ludique
+
+---
+
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmaizel&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmaizel&layout=compact&theme=radical" height="180px"/>
+</p>
+
+---
+
+### ⚡ Fun Facts
+
+- ♟️ Joueur d’échecs passionné (+2000 Elo)
+- 🎮 Fan de jeux vidéo et de compétitions en ligne
+- 🎵 Grand amateur de musique et de mix
+- ✈️ Globe-trotter et explorateur urbain
+
+---
+
+### 📫 Me contacter
+
+📍 **Avenue Beau Séjour 1, 1180 Uccle (Bruxelles)**  
+📧 **jacobmaizel@hotmail.com**  
+📱 **+32 485 198 740**  
+🔗 [GitHub](https://github.com/jmaizel)
 
 ---
 
