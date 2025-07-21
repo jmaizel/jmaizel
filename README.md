@@ -64,17 +64,16 @@ App web en temps réel (NestJS + React + WebSockets)
 ### ⚡ Fun Facts
 
 - ♟️ Joueur d’échecs passionné (+2000 Elo)
-- 🎮 Fan de jeux vidéo et de compétitions en ligne
-- 🎵 Grand amateur de musique et de mix
+- 🎮 Fan de jeux vidéo et de culture japonaise
+- ⚽ Grand amateur de sports, notamment de football (Visca Barça !)
+- 🧠 Toujours curieux et prêt à apprendre de nouvelles choses
 - ✈️ Globe-trotter et explorateur urbain
 
 ---
 
 ### 📫 Me contacter
-
-📍 **Avenue Beau Séjour 1, 1180 Uccle (Bruxelles)**  
+ 
 📧 **jacobmaizel@hotmail.com**  
-📱 **+32 485 198 740**  
 🔗 [GitHub](https://github.com/jmaizel)
 
 ---
