@@ -3,12 +3,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 Je travaille actuellement sur **[Nom du projet]**
-- 🌱 Je continue à apprendre **NestJS, Docker, DevOps...**
-- 💬 Pose-moi des questions sur **Node.js, TypeScript, MongoDB**
-- 📫 Tu peux me contacter à **jean.maizel@email.com**
-- 📄 [Voir mon CV](lien-vers-le-cv.pdf)
-- ⚡ Fun fact: J’adore résoudre des challenges tech et boire un bon café ☕
+- 🔭 Je travaille actuellement sur **WebServ**
+- 🌱 Je continue à apprendre **C++, Docker, C...**
+- 📫 Tu peux me contacter à **jacobmaizel@hotmail.com**
 
 ---
 
