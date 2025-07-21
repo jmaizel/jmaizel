@@ -15,7 +15,7 @@
 📊 Ancien étudiant en économie à **Solvay Brussels School**  
 ♟️ Joueur d’échecs classé (>2000 Elo) : concentration, stratégie & prise de décision  
 🧠 Esprit analytique, logique, et curieux  
-🌍 Basé à **Uccle, Bruxelles**
+🌍 Basé à **Bruxelles**
 
 ---
 
