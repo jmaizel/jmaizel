@@ -1,5 +1,6 @@
 <h1 align="center">Salut, moi c’est Jacob Maizel 👋</h1>
-<h3 align="center">Développeur fullstack en devenir, passionné de systèmes complexes & de stratégie</h3>
+<h3 align="center">Jeune développeur fullstack, attiré par les défis logiques, l’algorithmie et les systèmes à résoudre.</h3>
+
 
 <p align="center">
   <a href="mailto:jacobmaizel@hotmail.com"><img src="https://img.shields.io/badge/Email-jacobmaizel@hotmail.com-blue?style=flat-square&logo=gmail"></a>
