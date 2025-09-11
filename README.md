@@ -143,7 +143,6 @@ mindmap
 
 <div align="center">
 
-### 💡 *"Comme aux échecs, chaque problème de code a sa solution - il faut juste savoir anticiper les bons coups"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jmaizel&color=blueviolet&style=for-the-badge)
 
